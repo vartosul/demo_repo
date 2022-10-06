@@ -4,4 +4,4 @@ learn git hub
 Poți să scrii aici până te plictisești,
 
 
-Aoco mai scrio oareșceva
+Aoco mai scrio ba nu
